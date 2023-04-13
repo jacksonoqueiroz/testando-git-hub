@@ -30,3 +30,16 @@ depois:
 ```
 branch
 ```
+Para baixar fazer download dos arquivos do repositório.
+-Crie um novo arquivo onde irá baixar o repositório do github;
+-Depois inicia o git:
+```
+git init
+```
+Vá no github abra o arquivo a ser baixado em CODE
+HTTPS://e o nome do arquivo
+
+Digite no git
+```
+git clone https://e o nome do arquivo
+```
